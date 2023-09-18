@@ -1,12 +1,16 @@
-<mat-card style="width: 25rem">
-  <mat-card-header>
-    <mat-card-title>Actions Buttons</mat-card-title>
-    <mat-card-subtitle>End</mat-card-subtitle>
-  </mat-card-header>
-  <mat-card-content></mat-card-content>
-  <mat-card-actions align="end">
-    <button mat-button>LIKE</button>
-    <button mat-button>SHARE</button>
-  </mat-card-actions>
-  <mat-card-footer></mat-card-footer>
-</mat-card>
+<p *ngFor="let game of games">
+  <mat-card style="width: 25rem;">
+    <mat-card-header>
+      <mat-card-title>{{ game.name }}</mat-card-title>
+      <mat-card-subtitle>Game ID: {{ game.igdb_id }}</mat-card-subtitle>
+    </mat-card-header>
+    <mat-card-content>
+      This is where the stream links will go. I think this should be an accordion.
+    </mat-card-content>
+    <mat-card-actions align="end">
+      <button mat-button>LIKE</button>
+      <button mat-button>SHARE</button>
+    </mat-card-actions>
+    <mat-card-footer></mat-card-footer>
+  </mat-card>
+</p>
