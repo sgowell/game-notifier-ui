@@ -21,4 +21,5 @@ export class GameChooserComponent implements OnInit {
 export type GameToChoose = {
   name: string;
   igdb_id: string;
+  boxArtUrl: string;
 };
