@@ -1,90 +1,112 @@
 [
   {
     "name": "The Walking Dead: The Telltale Definitive Series",
-    "igdb_id": 117514
+    "igdb_id": 117514,
+    "boxArtUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q9o.png"
   },
   {
     "name": "The Wolf Among Us",
-    "igdb_id": 2993
+    "igdb_id": 2993,
+    "boxArtUrl": ""
   },
   {
     "name": "Life is Strange",
-    "igdb_id": 7599
+    "igdb_id": 7599,
+    "boxArtUrl": ""
   },
   {
     "name": "Batman: The Telltale Series",
-    "igdb_id": 14746
+    "igdb_id": 14746,
+    "boxArtUrl": ""
   },
   {
     "name": "Marvel's Guardians of the Galaxy: The Telltale Series",
-    "igdb_id": 26165
+    "igdb_id": 26165,
+    "boxArtUrl": ""
   },
   {
     "name": "The Council",
-    "igdb_id": 78547
+    "igdb_id": 78547,
+    "boxArtUrl": ""
   },
   {
     "name": "Blair Witch: Deluxe Edition",
-    "igdb_id": 154467
+    "igdb_id": 154467,
+    "boxArtUrl": ""
   },
   {
     "name": "The Dark Pictures Anthology: Man of Medan",
-    "igdb_id": 55047
+    "igdb_id": 55047,
+    "boxArtUrl": ""
   },
   {
     "name": "The Dark Pictures Anthology: Little Hope",
-    "igdb_id": 0
+    "igdb_id": 0,
+    "boxArtUrl": ""
   },
   {
     "name": "The Dark Pictures Anthology: House of Ashes",
-    "igdb_id": 140617
+    "igdb_id": 140617,
+    "boxArtUrl": ""
   },
   {
     "name": "Choice Chamber",
-    "igdb_id": 22036
+    "igdb_id": 22036,
+    "boxArtUrl": ""
   },
   {
     "name": "PlateUp!",
-    "igdb_id": 151353
+    "igdb_id": 151353,
+    "boxArtUrl": ""
   },
   {
     "name": "Ultimate Chicken Horse",
-    "igdb_id": 18158
+    "igdb_id": 18158,
+    "boxArtUrl": ""
   },
   {
     "name": "Gartic on Stream",
-    "igdb_id": 185152
+    "igdb_id": 185152,
+    "boxArtUrl": ""
   },
   {
     "name": "7 Ways to Die",
-    "igdb_id": 5574
+    "igdb_id": 5574,
+    "boxArtUrl": ""
   },
   {
     "name": "Party Hard",
-    "igdb_id": 12070
+    "igdb_id": 12070,
+    "boxArtUrl": ""
   },
   {
     "name": "Party Hard 2",
-    "igdb_id": 27088
+    "igdb_id": 27088,
+    "boxArtUrl": ""
   },
   {
     "name": "Cult of the Lamb",
-    "igdb_id": 165351
+    "igdb_id": 165351,
+    "boxArtUrl": ""
   },
   {
     "name": "Streets of Rogue",
-    "igdb_id": 23275
+    "igdb_id": 23275,
+    "boxArtUrl": ""
   },
   {
     "name": "Borderlands 3",
-    "igdb_id": 19164
+    "igdb_id": 19164,
+    "boxArtUrl": ""
   },
   {
     "name": "Warhammer: Vermintide 2",
-    "igdb_id": 55189
+    "igdb_id": 55189,
+    "boxArtUrl": ""
   },
   {
     "name": "Dead Cells",
-    "igdb_id": 26855
+    "igdb_id": 26855,
+    "boxArtUrl": ""
   }
 ]
